@@ -645,7 +645,6 @@ Crazy
 Creep
 Critical Acclaim
 Cry
-Cum on Feel
 Damage
 Dance
 Dead
@@ -813,9 +812,7 @@ Scar
 Scream
 Seasons
 Seize
-Semen
 Seven
-Sex
 She's
 Sheep
 Shine On (You)
@@ -1232,7 +1229,6 @@ School
 Sea
 Secret
 Self
-Sex Metal Barbie
 Show
 Sickness
 Sinner
