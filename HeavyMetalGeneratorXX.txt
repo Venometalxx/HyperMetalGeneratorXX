@@ -395,7 +395,9 @@ $s
 $pt5
 American
 Among
+Animals
 Angel
+Appetite
 Bark
 Black
 Black Gives Way
@@ -405,6 +407,7 @@ Brave
 British
 Countdown
 Cryptic
+Dark Side
 Death
 Diary
 Dirt
@@ -415,6 +418,7 @@ Hellbilly
 Hypnotize
 Images &
 Jar
+Love
 Master
 Mezmerize
 Number
@@ -430,8 +434,11 @@ Sinister
 Somewhere
 Spreading
 Steal
+The
 The Devil
 Toxicity
+Use
+Wish You
 
 $pt11
 for
@@ -445,6 +452,7 @@ of
 of a
 of the
 the
+at
 <b></b>
 <b></b>
 <b></b>
@@ -460,6 +468,7 @@ Beast
 Blood
 Dark
 Deluxe
+Destruction
 Disease
 Dying
 Extinction
@@ -473,6 +482,7 @@ Lightning
 Madman
 Magnetic
 Mind
+Moon
 New World
 Peace
 Puppets
@@ -487,7 +497,10 @@ The Living
 The Moon
 Urge
 Vengeance
+Wall
+Were Here
 Writings
+Your Illusion
 
 $pt7
 Black
@@ -515,6 +528,15 @@ Motor
 Disturbed
 Lamb of
 Led
+Pink
+Killer
+Dropkick
+Papa
+Twisted
+Van
+Def
+Velvet
+Faith
 
 $pt8
 Zeppelin
@@ -542,9 +564,20 @@ Sevenfold
 Death Punch
 Me!
 My Valentine
+Floyd
+Queen
+Murphys
+Roach
+Sister
+Halen
+Leppard
+Underground
+No More
+Tones
 
 $pt1
 "[pt7] [pt8]"
+21st Century
 Accident
 Ace
 Addicted
@@ -554,6 +587,7 @@ All Out
 Anaconda
 Angry
 Another
+Another Brick
 Another Day
 Are You
 Around
@@ -562,6 +596,7 @@ Back
 Bang
 Be Quick
 Beast
+Beat
 Been
 Behind
 Between
@@ -572,28 +607,35 @@ Blind
 Blood
 Bonded
 Born
+Brain
 Break
+Breakfast
 Breaking
+Breathe
 Breed
 Bring
 Bring Your Daughter
 Broken
 Brother
+Bullet
 Burn
 Burn MF
 Burnin'
+Burning
 Calling
 Can I Play
 Can't Stop
 Career
 Caught
 Caught Somewhere
+Change
 Change(s)
 Cheating
 Check
 Children
 Chop
 Closer
+Cocaine
 Cold
 Come
 Coming
@@ -605,18 +647,20 @@ Critical Acclaim
 Cry
 Cum on Feel
 Damage
+Dance
 Dead
 Deal
 Demon
 Destroy
 Devil(s)
+Digital
 Disposable
 Disturbing
 Divorce
+Dogs
 Doing It
 Dominance
 Don't Fuck With Me
-Down
 Down
 Dream Evil
 Dreams
@@ -627,6 +671,7 @@ Enter(ing)
 Even
 Even Flow
 Everybody's
+Everything
 Exit(ing)
 Fake
 Fake It
@@ -637,39 +682,50 @@ Feel So Numb
 Fell
 Flash
 Flight
+Follow
 Foxy
 Freak
 Fuck
+Fuck Off
 Fucking
 Fucking Hostile
-Fuck Off
+Getting Away
 Ghost
 Giving Birth
+God is
 Goodbye
 Got
 Growing
 Hail
 Hate
+Have
 He's
 Head
 Heart
 Heaven
-Hell Awaits
 Hell
+Hell Awaits
 Here
+Heroin
+Hey
 Highway
 Hole
 Hollow
 Holy
+Hot
 Hotel
 House
+Houses
 How
 How Can I Live
 Hurt
 I Don't Believe
 I Don't Wanna Stop
+I Saw
+I Wanna Be
 I'm Not
 Immortalized
+In
 Indestructible
 Indians
 Inside
@@ -677,15 +733,19 @@ It's
 Jekyll and Hyde
 Jesus
 King
+Knife
 Know
 Laid
+Lake
 Land
 Last
+Lemonade
 Lesson Learned
 Let It
 Let Me Hear You
 Let's Hit
 Liar
+Livin'
 Living
 Lonely
 Look
@@ -698,8 +758,11 @@ Madness
 Man
 Master
 Masturbate
+Monkey
 Monster
 More Than a Feeling
+Mouthful
+My Best Friend's Girl
 My Dick
 My Nips
 Never Enough
@@ -707,8 +770,9 @@ Never Turn Back
 Nightmare
 No More
 No One
-Nobody's
 Nobody Praying
+Nobody's
+November
 O.D.'d
 One
 One Step Closer
@@ -717,6 +781,7 @@ Ordinary
 Out
 Outshined
 Over
+Owner
 Painkiller
 Panic
 Panic Attack
@@ -725,7 +790,9 @@ Peace
 Peace Sells...
 Peel
 People
+Pepper
 Phantom
+Pigs
 Politics
 Pour Some Sugar
 Prayer
@@ -733,22 +800,21 @@ Psycho
 Psychosocial
 Pull
 Push
-Raining Blood
-Raining
+Quicksand
 R*pe
 Rage
 Rainbow
 Raining
+Raining Blood
 Remedy
 Remember
 Right
+Rime
 River
-Rotten
 Rotten
 Run
 Run Around
 Runnin'
-Rust
 Rust
 Satan
 Scar
@@ -759,19 +825,23 @@ Semen
 Seven
 Sex
 She's
+Sheep
+Shine On (You)
 Shit
 Shot
 Shout
 Show
 Shrinking
-Silver Zin
+Skinned
 Slave
 Slow
 Smells
 Smile
+Smooth
 So Far, So Good...
 Someone
 Something
+Song
 South
 Spiders
 Spit
@@ -780,12 +850,13 @@ Stand
 Stay
 Staying
 Stealing
+Still
 Storming
 Straight
 Stranger
-Stranger
 Stress
 Strike
+Stroke
 Stronger
 Struggle
 Submission
@@ -801,7 +872,11 @@ Teacher
 Tears
 Tears Don't Fall
 Ten Thousand Fists
+Thank You
 That's
+The Court
+The Devil's
+The Logical
 The Number
 The Thing That Should Not Be
 The Threat
@@ -813,42 +888,53 @@ Thrasher
 Through
 Thunder
 Together
+Tonight, Tonight
 Toxic
 Transgender
 Trippin' on a Hole
 Trooper
 Trust
 Turn
+Unchained
 Under
 Unsainted
 Until
+Us
+Veteran
 Voice
 Voodoo
 Wait
+Waiting
 Wake
 Walk
-Walk
 Walk Away
+Wanted Dead
 Warrior
 Wasted
 We Will Rock
 We're
 Welcome
 What
-What
 What's Up
 When
 When I Come Around
+When the Tigers
 Where
 Who
 Whore
 Why
+Wish You Were
+Wonderful Tonight
 Wrong Side
 Y'all Want
+You Give Love
+You Only Live
 You're
 You've Got Another Thing Coming
+Young
 Your Mama('s)
 Youth
+Zombie
 
 $pt2
 (to) Me in the
@@ -864,6 +950,7 @@ by the
 for Her
 for His
 for My
+for the
 for Their
 for Your
 from
@@ -953,409 +1040,262 @@ Your
 
 $pt3
 Afterlife
-Afterlife
-Animal
+Air
+America
 Animal
 Anything
-Anything
-Army
 Army
 Ashes
-Ashes
-Asshole
 Asshole
 Away
-Away
 Bastard(s)
-Bastard(s)
-Beast
+Bath
 Beast
 Big Brown Beaver
 Birth
-Birth
-Black Days
 Black Days
 Black Hole
-Black Hole
 Blade
-Blade
+Blazing
 Bleeding
-Bleeding
-Blue Eyes
 Blue Eyes
 Boyfriend
 Breath
-Breath
 Bridge
-Bridge
-Broken Dream(s)
 Broken Dream(s)
 Brother
 Burning Field(s)
-Burning Field(s)
 Business
-Business
+Butterfly Wings
 Cage
-Cage
+Call
 Cannibis
-Cannibis
-Centuries
+Cavities
 Centuries
 Chamber
-Chamber
-Chaos
 Chaos
 Child
-City
+Cigar
 City
 Climax
-Climax
-Closed Doors
 Closed Doors
 Cloud(s)
-Cloud(s)
-Confusion
+Clouds
+Comfortably
+Company
 Confusion
 Consequences
-Consequences
-Core
 Core
 Corner
-Corner
-Country
+Countdown
+Counting
 Country
 Creation
-Creation
 Creep
-Creep
+Crimson King
 Daddy
-Dance
+Damage
 Dance
 Danger
-Danger
-Dark
 Dark
 Daughter
-Daughter
-Days
 Days
 Dead
-Dead
-Dead Memories
 Dead Memories
 Deceit
-Deceit
-Depression
 Depression
 Destruction
-Destruction
-Devil
 Devil
 Diary
 Dickhole
-Dickhole
-Die
 Die
 Disasterpiece
-Disasterpiece
-Divide
 Divide
 Dreams
-Dreams
-Drugs
 Drugs
 Dust
-Dust
-Edge
 Edge
 End
-End
 Enemy
-Enemy
+Erased
 Eternity
-Eternity
-Excuses
-Excuses
 Everybody
-Everybody
-Eyes
+Excuses
 Eyes
 Factory
-Factory
+Fall
 Family
-Family
-Famine
 Famine
 Father
 Fiction
-Fiction
-Fire
 Fire
 Floods
-Floods
-Floor
 Floor
 Fold
-Fold
-Forest
 Forest
 Frankenstein
-Frankenstein
-Freak
 Freak
 Friend
-Friend
-Funeral
 Funeral
 Game
-Game
 Garden
-Garden
+Generation
 Girlfriend
 Glory
-Glory
-Gold
 Gold
 Graveyard
-Graveyard
-Green Eyes
 Green Eyes
 Ground
-Ground
-Gun
 Gun
 Habit
-Habit
-Hand
 Hand
 Hangar
-Hangar
-Heart
 Heart
 Heaven
-Heaven
 Hell
-Hell
+Here
 Hours
-Hours
-Hurricane
+House of Flies
 Hurricane
 Husband
 Immortal
-Immortal
 Inches
 Insects
-Insects
+Jesus
 Jesus Christ
-Jesus Christ
-Jungle
+Judgement
 Jungle
 King
-King
 Kiss
-Kiss
-Knees
 Knees
 Korn
 Law
-Law
 Lie(s)
-Lie(s)
-Life
 Life
 Life Itself
 Light
-Light
 London
-London
+Lonely Heart
 Love
-Love
-Madness
-Madness
+Lust
 Madness
 Maggots
-Maggots
-Meeting
 Meeting
 Midnight
-Midnight
-Migraine
 Migraine
 Mine
 Minutes
-Minutes
+Money
 Months
-Months
-Mosh
 Mosh
 Mother
 Motherfucker
-Motherfucker
 Mountain
-Mountain
+Mountains
 Mouth
-Mouth
-Music
+Murder
 Music
 Name
-Name
 Navigator
-Navigator
-New Abortion
 New Abortion
 New Gods of Supertown
 Nice Guy
-Nice Guy
-Night
 Night
 Nightmare
-Nightmare
-Nobody
 Nobody
 Noize
-Noize
+Noose
 Nothing
-Nothing
+Numb
 Nurse
-Nurse
-One
+Once
 One
 Orc(s)
-Orc(s)
+Package
 Paper Heart
-Paper Heart
 Path
-Path
-Path
-Path
-Peace
 Peace
 Penis
 Phoenix
-Phoenix
-Place
 Place
 Plague
-Plague
-Plug
+Plateau
 Plug
 Pornography
-Pornography
 Pressure
-Pressure
-Punishment Due
+Prty
+Psychic Wars
 Punishment Due
 Puppet(s)
-Puppet(s)
 Question(s)
-Question(s)
-Realms of Death
+Radio
+Rain
 Realms of Death
 Rebel
-Rebel
 Rest
-Rest
-Rock N' Roll
+Ritual
 Rock N' Roll
 Romance
-Romance
 Roof
-Roof
-Sea
+Rump
+Schizoid Man
+School
 Sea
 Secret
-Secret
-Self
 Self
 Sex Metal Barbie
 Show
-Show
 Sickness
-Sickness
-Silver Zin
-Sinner
 Sinner
 Sister
-Slaughter
-Slaughter
+Skies
 Slaughter
 Sleep(s)
-Sleep(s)
-Song
 Song
 Soul
-Soul
-Star(s)
 Star(s)
 Station
-Station
 Strange Land
-Strange Land
-Stranger(s)
+Stranger
 Stranger(s)
 Stuff
-Stuff
 Stupid Girls
-Stupid Girls
-Sun
+Summer
 Sun
 System
-System
-Teen Spirit
 Teen Spirit
 Teens
-Teens
+Them
 Thing
-Thing
-Time
 Time
 Tits
 Total Darkness
-Total Darkness
 Touch
-Touch
-Trenches
+Tree
 Trenches
 TV
 Unforgiven
-Unforgiven
-Universe
 Universe
 Vagina
 Valentine
-Valentine
-Veins
 Veins
 Vision
-Vision
-Voices
 Voices
 Void
-Void
-Wall
 Wall
 War Ensemble
-War Ensemble
-Wars
 Wars
 Way
-Way
-Whore
 Whore
 Wife
 Wild Alien Baby
-Wild Alien Baby
-Window
 Window
 Witch
-Witch
-World
 World
 Years
-Years
+You
 Young
-Young
-Yourself
+Your Mommy...
 Yourself
 
 $pt4
@@ -1480,6 +1420,7 @@ Axl
 Athena
 Ivan
 Pierce
+Freddie
 
 $bm12
 Hetfield
@@ -1515,6 +1456,7 @@ LaBrie
 Panacea
 Moody
 Hazel
+Mercury
 
 $bm21
 Kirk
@@ -1550,6 +1492,8 @@ Izzy
 John
 Jason
 Vizole
+David
+Brian
 
 $bm22
 Hammett
@@ -1585,6 +1529,8 @@ Stradlin
 Petrucci
 Hook
 Cole
+Gilmour
+May
 
 $bm31
 Cliff
@@ -1617,6 +1563,8 @@ John
 Duff
 Chris
 Devina
+Roger
+John
 
 $bm32
 Burton
@@ -1650,6 +1598,8 @@ Moyer
 McKagan
 Myung
 Kael
+Waters
+Deacon
 
 $bm41
 Lars
@@ -1678,6 +1628,7 @@ Mike
 Steven
 Jeremy
 Black
+Roger
 
 $bm42
 Ulrich
@@ -1708,6 +1659,8 @@ Alder
 Mangini
 Spencer
 Eyes
+Mason
+Taylor
 
 $bm51
 Jordan
