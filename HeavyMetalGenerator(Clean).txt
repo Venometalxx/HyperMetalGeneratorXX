@@ -1199,7 +1199,6 @@ Package
 Paper Heart
 Path
 Peace
-Penis
 Phoenix
 Place
 Plague
@@ -1221,7 +1220,6 @@ Ritual
 Rock N' Roll
 Romance
 Roof
-Rump
 Schizoid Man
 School
 Sea
@@ -1258,7 +1256,6 @@ Trenches
 TV
 Unforgiven
 Universe
-Vagina
 Valentine
 Veins
 Vision
